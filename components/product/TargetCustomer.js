@@ -43,13 +43,15 @@ function TargetCustomer() {
           </li>
           <li>
             What section of the society is being targeted and what income groups
-            can avail the features? The best part of our product is that it
-            never charges a single rupee from the customer, our business model
-            is to charge the hospitals to which the customers are redirected. In
-            case of private ones, a commission is charged on the hospital bill
-            of the patient while in the case of a government hospital, if
-            granted the permission to get the software (product) implemented, no
-            commission will be charged from the user or the hospital.
+            can avail the features?
+            <br />
+            The best part of our product is that it never charges a single rupee
+            from the customer, our business model is to charge the hospitals to
+            which the customers are redirected. In case of private ones, a
+            commission is charged on the hospital bill of the patient while in
+            the case of a government hospital, if granted the permission to get
+            the software (product) implemented, no commission will be charged
+            from the user or the hospital.
           </li>
         </ul>
       </p>
