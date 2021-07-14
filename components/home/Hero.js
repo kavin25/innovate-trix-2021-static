@@ -15,7 +15,10 @@ export default function Hero() {
         alignItems: "center",
       }}
     >
-      <div className="container d-flex flex-column-reverse align-items-center flex-lg-row justify-content-lg-between">
+      <div
+        style={{ width: "100%" }}
+        className="container d-flex flex-column-reverse align-items-center flex-lg-row justify-content-lg-between"
+      >
         <div className={styles.card}>
           <div className="card">
             <div className="card-body">
@@ -40,12 +43,15 @@ export default function Hero() {
             </div>
           </div>
         </div>
-        <div>
+        <div
+          style={{ objectFit: "cover", width: "100%" }}
+          className="d-flex justify-content-lg-end justify-content-center"
+        >
           <img
             src="/medical.svg"
             alt="Hospital Banner Image"
             height="auto"
-            width="600"
+            width="80%"
             style={{ background: "transparent" }}
             className={styles.illustration}
           />
