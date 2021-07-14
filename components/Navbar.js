@@ -1,9 +1,15 @@
+import Link from "next/link";
+import { appName } from "../lib/constants";
+
 export default function Navbar() {
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+    <nav
+      className="navbar navbar-expand-lg navbar-light"
+      style={{ backgroundColor: "#fff" }}
+    >
       <div className="container-fluid">
         <a className="navbar-brand" href="#">
-          Navbar
+          {appName}
         </a>
         <button
           className="navbar-toggler"
@@ -19,14 +25,16 @@ export default function Navbar() {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
             <li className="nav-item">
-              <a className="nav-link active" aria-current="page" href="#">
-                Home
-              </a>
+              <Link href="/">
+                <a className="nav-link" aria-current="page">
+                  Home
+                </a>
+              </Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
-                Link
-              </a>
+              <Link href="/about">
+                <a className="nav-link">About</a>
+              </Link>
             </li>
           </ul>
         </div>
