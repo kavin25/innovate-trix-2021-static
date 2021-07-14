@@ -1,4 +1,5 @@
 //import styles from "../styles/Home.module.css";
+import FAQ from "../components/home/FAQ";
 import Hero from "../components/home/Hero";
 import Section2 from "../components/home/Section2";
 import Section3 from "../components/home/Section3";
@@ -20,6 +21,7 @@ export default function Home() {
       </div>
       <Section2 />
       <Section3 />
+      <FAQ />
     </main>
   );
 }

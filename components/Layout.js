@@ -2,6 +2,7 @@ import Head from "next/Head";
 import { appName } from "../lib/constants";
 
 import Navbar from "./Navbar";
+import Footer from "./Footer";
 
 export default function Layout({ children }) {
   return (
@@ -23,6 +24,7 @@ export default function Layout({ children }) {
       </Head>
       <Navbar />
       {children}
+      <Footer />
     </div>
   );
 }

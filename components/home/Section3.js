@@ -1,7 +1,9 @@
+import Link from "next/link";
+
 export default function Section3() {
   return (
     <div className="container">
-      <h1 className="text-center">Purpose of the Product</h1>
+      <h2 className="text-center">Purpose of the Product</h2>
       <p className="text-center">
         The sole purpose of the product or the app which will be launched is to
         centralize the emergency healthcare system i.e a person in an emergency
@@ -14,7 +16,11 @@ export default function Section3() {
         <br />
         This product aims to bridge that gap by connecting a person in a state
         of emergency to a hospital. The functionality has been explained in
-        detail below.
+        detail{" "}
+        <Link href="/product#functionality">
+          <a style={{ color: "#0d6efd", textDecoration: "underline" }}>here</a>
+        </Link>
+        .
       </p>
     </div>
   );

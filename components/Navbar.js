@@ -8,10 +8,12 @@ export default function Navbar() {
       style={{ backgroundColor: "#fff" }}
     >
       <div className="container-fluid">
-        <a className="navbar-brand d-flex align-items-center" href="#">
-          <img src="/logo.png" width="32px" className="me-2" alt="" />
-          {appName}
-        </a>
+        <Link href="/">
+          <a className="navbar-brand d-flex align-items-center" href="#">
+            <img src="/logo.png" width="32px" className="me-2" alt="" />
+            {appName}
+          </a>
+        </Link>
         <button
           className="navbar-toggler"
           type="button"
@@ -35,6 +37,16 @@ export default function Navbar() {
             <li className="nav-item">
               <Link href="/about">
                 <a className="nav-link">About</a>
+              </Link>
+            </li>
+            <li className="nav-item">
+              <Link href="/product">
+                <a className="nav-link">Product</a>
+              </Link>
+            </li>
+            <li className="nav-item">
+              <Link href="/contact">
+                <a className="nav-link">Contact</a>
               </Link>
             </li>
           </ul>
