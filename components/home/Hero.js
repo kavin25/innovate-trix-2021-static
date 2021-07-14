@@ -16,22 +16,27 @@ export default function Hero() {
       }}
     >
       <div className="container d-flex flex-column-reverse align-items-center flex-lg-row justify-content-lg-between">
-        <div className="card">
-          <div className="card-body">
-            <div className="text-center text-md-start">
-              <h1 className="card-title">{appName}</h1>
-              <p className="card-subtitle mb-2">
-                The Fastest Ambulance Service, in direct contact with the
-                hospitals, with the help of tech
-              </p>
-              <a
-                href="https://jstseguru.in/innovate-trix/sign-in"
-                className="btn btn-primary"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Visit Site
-              </a>
+        <div className={styles.card}>
+          <div className="card">
+            <div className="card-body">
+              <div className="text-center text-md-start">
+                <div className="d-flex align-items-center justify-content-between">
+                  <h1 className="card-title">{appName}</h1>
+                  <img src="/logo.png" alt="" width="60px" className="ms-2" />
+                </div>
+                <p className="card-subtitle mb-2">
+                  The Fastest Ambulance Service, in direct contact with the
+                  hospitals, with the help of tech
+                </p>
+                <a
+                  href="https://jstseguru.in/innovate-trix/sign-in"
+                  className="btn btn-primary"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  Visit Site
+                </a>
+              </div>
             </div>
           </div>
         </div>
