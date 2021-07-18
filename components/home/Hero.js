@@ -20,7 +20,7 @@ export default function Hero() {
         className="container d-flex flex-column-reverse align-items-center flex-lg-row justify-content-lg-between"
       >
         <div className={styles.card}>
-          <div className="card">
+          <div className="card p-3">
             <div className="card-body">
               <div className="text-center text-md-start">
                 <div className="d-flex align-items-center justify-content-between">
