@@ -4,8 +4,8 @@ import { appName } from "../lib/constants";
 export default function Navbar() {
   return (
     <nav
-      className="navbar navbar-expand-lg navbar-light"
-      style={{ backgroundColor: "#fff" }}
+      className="navbar fixed-top navbar-expand-lg navbar-dark"
+      style={{ backgroundColor: "rgb(42, 46 ,58)" }}
     >
       <div className="container-fluid">
         <Link href="/">
@@ -26,7 +26,7 @@ export default function Navbar() {
           <span className="navbar-toggler-icon"></span>
         </button>
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+          <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
             <li className="nav-item">
               <Link href="/">
                 <a className="nav-link" aria-current="page">

@@ -1,6 +1,12 @@
 function Contact() {
   return (
-    <main style={{ minHeight: "calc(100vh - 200px)" }} className="container">
+    <main
+      style={{
+        minHeight: "calc(100vh - 200px)",
+        marginTop: "calc(56px + 18px)",
+      }}
+      className="container"
+    >
       <h2 className="text-center">Have some question?</h2>
       <form style={{ maxWidth: "500px", margin: "auto" }}>
         <div className="mb-3">

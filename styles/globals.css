@@ -8,6 +8,10 @@ body {
   line-height: 1.5;
 }
 
+main {
+  margin-top: 56px;
+}
+
 a {
   color: inherit;
   text-decoration: none;
