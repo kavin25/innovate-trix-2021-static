@@ -1,6 +1,6 @@
 function TargetCustomer() {
   return (
-    <div>
+    <div className="mb-5">
       <h2>Target Customer Analysis</h2>
       <p>
         A comprehensive target market customer analysis is one of the crucial

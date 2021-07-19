@@ -1,6 +1,6 @@
 export default function BusinessPlan() {
   return (
-    <div className="business-plan">
+    <div className="mb-5">
       <h2>Business Plan</h2>
       <div className="row mt-3">
         <div className="col-sm-12 col-md-4 text-center">

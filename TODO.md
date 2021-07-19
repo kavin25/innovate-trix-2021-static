@@ -16,5 +16,5 @@
 ### About
 - [ ] Images theek karo (stretching)
 ### Product
-- [ ] Adding more spacing between sections
+- [x] Adding more spacing between sections
 

@@ -1,6 +1,6 @@
 function Functionality() {
   return (
-    <div id="functionality">
+    <div className="mb-5" id="functionality">
       <h2>Functionality</h2>
       <h3>Basic Functionality</h3>
       <p>

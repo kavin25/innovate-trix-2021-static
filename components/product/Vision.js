@@ -1,6 +1,6 @@
 export default function Vision() {
   return (
-    <div className="vision">
+    <div className="mb-5">
       <h2>Vision</h2>
       <div className="row mt-3">
         <div className="col-sm-12 col-md-8">
