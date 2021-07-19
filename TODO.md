@@ -12,7 +12,9 @@
 ### Home
 - [x] Remove default blue on bootstrap accordian
 - [x] Increase padding on hero card (p-3 maybe)
-- [ ] Decrease spacing between laptop and text
+- [x] Decrease spacing between laptop and text
 ### About
 - [ ] Images theek karo (stretching)
+### Product
+- [ ] Adding more spacing between sections
 
