@@ -14,7 +14,7 @@
 - [x] Increase padding on hero card (p-3 maybe)
 - [x] Decrease spacing between laptop and text
 ### About
-- [ ] Images theek karo (stretching)
+- [x] Images theek karo (stretching)
 ### Product
 - [x] Adding more spacing between sections
 

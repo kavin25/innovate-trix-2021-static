@@ -7,7 +7,7 @@ const teamMembers = [
   },
   {
     name: "Mehul Srivastava",
-    image: "mehul.webp",
+    image: "mehul.png",
     about:
       "I am Mehul Srivastava, a student of Class 11th in DPS RKPuram. I believe in the saying that a man without a sound career planning is like a ship without the radar. It drifts and ultimately sinks down in the deep ocean. In terms of my academic career I will be pursuing economic honours after my 12th or Senior School Graduation",
   },
