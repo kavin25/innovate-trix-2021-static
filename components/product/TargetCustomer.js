@@ -11,7 +11,7 @@ function TargetCustomer() {
         <br />
         <ul>
           <li>
-            Who are the potential customers?
+            <strong>Who are the potential customers?</strong>
             <br />
             Since our product is healthcare-related, our customer base includes
             every single individual in India which includes those who might be
@@ -21,7 +21,7 @@ function TargetCustomer() {
             emergencies calls a day
           </li>
           <li>
-            Where are they located?
+            <strong>Where are they located?</strong>
             <br />
             The best part of our product is that it is neither restricted to any
             specific region of the country. Anyone present in any region of the
@@ -29,7 +29,7 @@ function TargetCustomer() {
             present in the nearby or surrounding areas.
           </li>
           <li>
-            How large is our target market?
+            <strong>How large is our target market?</strong>
             <br />
             As mentioned, our target market includes every single individual in
             the country but going by the practicality that occurs in the
@@ -42,8 +42,10 @@ function TargetCustomer() {
             market basically includes every single individual
           </li>
           <li>
-            What section of the society is being targeted and what income groups
-            can avail the features?
+            <strong>
+              What section of the society is being targeted and what income
+              groups can avail the features?
+            </strong>
             <br />
             The best part of our product is that it never charges a single rupee
             from the customer, our business model is to charge the hospitals to
