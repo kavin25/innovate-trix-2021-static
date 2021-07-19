@@ -1,12 +1,12 @@
 # Ambulify
 Ambulify is an emergency healthcare application. 
 This is the landing page for the website being submitted for Innovate@trix 2021. This is deployed at https://ambulify.kavin.me.
-The source code of the functionality app is available [here](https://github.com/kavin25) and can be found at https://ambulify.jstseguru.in
+The source code of the functionality app is available [here](https://github.com/kavin25) and can be found at https://jstseguru.in/innovate-trix
 
 ## How to see the functionality app
 This is a software based on the idea that has been created on a very basic level to show the working of the idea.
 
-The project has been deployed at https://ambulify.jstseguru.in
+The project has been deployed at https://jstseguru.in/innovate-trix
 
 There are 3 parts:
 1. User
@@ -34,7 +34,7 @@ There are 3 parts:
     3. Fortix Hospital (or Hosp 3)
         - Email: admin@fortis.com
         - Password: trix
-- Login at https://ambulify.jstseguru.in/dashboard/hospital/login
+- Login at https://jstseguru.in/innovate-trix/dashboard/hospital/login
 
 
 3. Ambulance
@@ -51,4 +51,4 @@ There are 3 parts:
     3. Fortis Ambulance (or Hosp 1)
         - Email: ambulance@fortis.com
         - Password: trix
-- Login at https://ambulify.jstseguru.in/dashboard/ambulance
+- Login at https://jstseguru.in/innovate-trix/dashboard/ambulance
