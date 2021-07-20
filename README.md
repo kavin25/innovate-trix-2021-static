@@ -1,7 +1,7 @@
 # Ambulify
 Ambulify is an emergency healthcare application. 
 This is the landing page for the website being submitted for Innovate@trix 2021. This is deployed at https://ambulify.kavin.me.
-The source code of the functionality app is available [here](https://github.com/kavin25) and can be found at https://jstseguru.in/innovate-trix
+The source code of the functionality app is available [here](https://github.com/mehul-srivastava/innovate-trix-2021) and can be found at https://jstseguru.in/innovate-trix
 
 ## How to see the functionality app
 This is a software based on the idea that has been created on a very basic level to show the working of the idea.
